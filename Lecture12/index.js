@@ -169,6 +169,7 @@ let childObj = {
     c: 10,
 };
 
+
 // childObj ka prototype = baseObj
 childObj = Object.create(baseObj);
 
