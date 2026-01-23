@@ -1,2 +1,0 @@
-<!-- Callback queue -->
-<!-- MicroTask queue -->
