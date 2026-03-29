@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍💻 Author
-**Harshal Chauhan**  
+** Harshal Chauhan **  
 Frontend | Backend | System Design  
 
 🔗 LinkedIn: https://www.linkedin.com/in/harshal8411  
