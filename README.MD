@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author 
 ** Harshal Chauhan **  
 Frontend | Backend | System Design  
 
