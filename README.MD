@@ -1,4 +1,4 @@
-# 🚀 JavaScript-NEXUS+ 
+# 🚀 JavaScript-NEXUS+  
 ### Complete JavaScript Journey — From Fundamentals to Advanced Projects
 
 > **Understand JavaScript deeply • Build real projects • Crack interviews**  
