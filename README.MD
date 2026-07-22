@@ -13,7 +13,7 @@
 Frontend | Backend | System Design  
 
 🔗 LinkedIn: https://www.linkedin.com/in/harshal8411  
-📧 Email: chauhanharshal8411@gmail.com  
+📧  Email: chauhanharshal8411@gmail.com  
 
 ---
 
