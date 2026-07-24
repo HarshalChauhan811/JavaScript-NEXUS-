@@ -8,7 +8,7 @@
 let a = 10;
 let b = a;   // yaha a ki VALUE copy hui hai
 
-b = 30;      // sirf b change hoga
+b = 30;       // sirf b change hoga
 
 console.log(b);
 // Output: 30
